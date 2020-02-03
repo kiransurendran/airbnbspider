@@ -1,0 +1,1415 @@
+{
+    "pdp_listing_detail": {
+        "listing_amenities": [
+            {
+                "category": null,
+                "icon": "icon-meal",
+                "id": 8,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Kitchen",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "kitchen",
+                "tooltip": "Space where guests can cook their own meals"
+            },
+            {
+                "category": null,
+                "icon": "icon-wifi",
+                "id": 4,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Wifi",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "wireless_internet",
+                "tooltip": "Continuous access in the listing"
+            },
+            {
+                "category": null,
+                "icon": "icon-desktop",
+                "id": 2,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Cable TV",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "cable",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-washer",
+                "id": 33,
+                "is_business_ready_feature": false,
+                "is_present": false,
+                "is_safety_feature": false,
+                "name": "Washer",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "washer",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-tv",
+                "id": 1,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "TV",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "tv",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-hair-dryer",
+                "id": 45,
+                "is_business_ready_feature": true,
+                "is_present": false,
+                "is_safety_feature": false,
+                "name": "Hair dryer",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "hair-dryer",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-shampoo",
+                "id": 41,
+                "is_business_ready_feature": false,
+                "is_present": false,
+                "is_safety_feature": false,
+                "name": "Shampoo",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "shampoo",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-essentials",
+                "id": 40,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Essentials",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "essentials",
+                "tooltip": "Towels, bed sheets, soap, and toilet paper"
+            },
+            {
+                "category": null,
+                "icon": "icon-heating",
+                "id": 30,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Heating",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "heating",
+                "tooltip": "Central heating or a heater in the listing"
+            },
+            {
+                "category": null,
+                "icon": "icon-air-conditioning",
+                "id": 5,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Air conditioning",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "ac",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 93,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Dishes and silverware",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "dishes_and_silverware",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-private-room",
+                "id": 57,
+                "is_business_ready_feature": false,
+                "is_present": false,
+                "is_safety_feature": false,
+                "name": "Private entrance",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "private-entrance",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-ok",
+                "id": 36,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": true,
+                "name": "Carbon monoxide alarm",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "carbon_monoxide_detector",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-ok",
+                "id": 35,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": true,
+                "name": "Smoke alarm",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "smoke_detector",
+                "tooltip": ""
+            }
+        ],
+        "root_amenity_sections": [
+            {
+                "id": "available_amenities",
+                "title": "Amenities",
+                "subtitle": "",
+                "amenity_ids": [
+                    8,
+                    4,
+                    2,
+                    1
+                ],
+                "photos": null
+            }
+        ],
+        "see_all_amenity_sections": [
+            {
+                "id": "pdp_basic",
+                "title": "Basic",
+                "subtitle": "",
+                "amenity_ids": [
+                    4,
+                    2,
+                    1,
+                    40,
+                    30,
+                    5
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_dining",
+                "title": "Dining",
+                "subtitle": "",
+                "amenity_ids": [
+                    8,
+                    93
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_safety",
+                "title": "Safety features",
+                "subtitle": "",
+                "amenity_ids": [
+                    36,
+                    35
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_unavailable",
+                "title": "Not included",
+                "subtitle": "",
+                "amenity_ids": [
+                    33,
+                    45,
+                    41,
+                    57
+                ],
+                "photos": null
+            }
+        ],
+        "additional_house_rules": "There is no smoking in the apartment or the building. No Pets allowed. Please double lock the door for safety. No eating in the sleeping area only in the kitchen. . Thank You!",
+        "bathroom_label": "1 bath",
+        "bed_label": "1 bed",
+        "bedroom_label": "1 bedroom",
+        "guest_label": "2 guests",
+        "highlights": [
+            {
+                "type": "LISTING_LOCATION_REVIEW_RATING",
+                "message": "100% of recent guests gave the location a 5-star rating.",
+                "headline": "Great location",
+                "position": "0",
+                "vote": null,
+                "icon": "core_map_pin",
+                "context": null
+            },
+            {
+                "type": "LISTING_CHECKIN_REVIEW_RATING",
+                "message": "95% of recent guests gave the check-in process a 5-star rating.",
+                "headline": "Great check-in experience",
+                "position": "1",
+                "vote": null,
+                "icon": "accomodation_keys",
+                "context": null
+            },
+            {
+                "type": "LISTING_COMMUNICATION_REVIEW_RATING",
+                "message": "90% of recent guests rated Mark 5-star in communication.",
+                "headline": "Great communication",
+                "position": "2",
+                "vote": null,
+                "icon": "em_call",
+                "context": null
+            }
+        ],
+        "id": 4226098,
+        "listing_expectations": [],
+        "listing_rooms": [],
+        "name": "W. 80's Central Park 3 Blocks Walk",
+        "p3_subject": "W. 80's Central Park 3 Blocks Walk - Apartments for Rent in New York",
+        "p3_summary_address": "New York, United States",
+        "p3_summary_title": "W. 80's Central Park 3 Blocks Walk",
+        "person_capacity": 2,
+        "photos": [
+            {
+                "caption": "W 80's tree lined safe and easily accessible to Subway Shopping Museum",
+                "id": 32306340,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/61269211/7a401443_original.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=large",
+                "scrim_color": "#16211B",
+                "small": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=small",
+                "sort_order": 1,
+                "thumbnail": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWhdWfsFCuz9/Nfg0gQDAgFVSkT/BAYVHBvH1tbt8OsBWkxE+P374PT+FxQN9QD9IUAX7EHW7vUAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/61269211/7a401443_original.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.465201465201465
+            },
+            {
+                "caption": "Walk 3 short blocks to Central park",
+                "id": 32306341,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/61269278/9d3d23f8_original.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=large",
+                "scrim_color": "#5F4A2F",
+                "small": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=small",
+                "sort_order": 2,
+                "thumbnail": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Adbj+PwABgUB/dPg8Pb9/gGuqJ4SExgGCAb+/wDu6OIBb1AoDwsI+wUFBgcH6+f0UagWMB57ydAAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/61269278/9d3d23f8_original.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/61269278/9d3d23f8_original.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.4993548387096773
+            },
+            {
+                "caption": "There\u2019s a curtain the completed surrounds the room for privacy. The room is separated by another room and then my bedroom. Very quiet in the back of the apartment. ",
+                "id": 770796715,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=large",
+                "scrim_color": "#171312",
+                "small": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=small",
+                "sort_order": 3,
+                "thumbnail": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AYWEe7e5v01KQgsMCwGIdF2rvdKOiYLf5eMBb11Pvs7efX53BQYEAV9PR7vM1jw8NjMnFgFKPjIkMDkmKy8XHSKO1Bga6bZKpgAAAABJRU5ErkJggg==",
+                "x_large": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/c68e3b14-a415-4fcb-8f3c-00954fdebda9.jpg?aki_policy=xx_large",
+                "picture_orientation": "PORTRAIT",
+                "aspect_ratio": 0.75
+            },
+            {
+                "caption": "",
+                "id": 770797082,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=large",
+                "scrim_color": "#2A231D",
+                "small": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=small",
+                "sort_order": 4,
+                "thumbnail": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AZ2LiPr98uPb2T5LXAGOgn83MSIJBwrs9gQBWVVUXk9F6+/5zM3AAVNKPjYxKwUC/+fk5wFyZ1MZGBQCAADp5+rmtBymG9GauQAAAABJRU5ErkJggg==",
+                "x_large": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/d41faedb-9547-4612-9c11-86d2e2780341.jpg?aki_policy=xx_large",
+                "picture_orientation": "PORTRAIT",
+                "aspect_ratio": 0.75
+            },
+            {
+                "caption": "",
+                "id": 770797207,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=large",
+                "scrim_color": "#141517",
+                "small": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=small",
+                "sort_order": 5,
+                "thumbnail": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AcDAuyAgHdLR0ru8vwHU0cn/AP/DxMnw9/4BysCnxsva4+fuAgkOAXh3dquxtR8bGBkXFAE1Nzfe3dwjIiAWDwnJjiAwGgIzlQAAAABJRU5ErkJggg==",
+                "x_large": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/7eac1842-961f-4be4-b0ef-675908dda2a7.jpg?aki_policy=xx_large",
+                "picture_orientation": "PORTRAIT",
+                "aspect_ratio": 0.75
+            },
+            {
+                "caption": "",
+                "id": 770797392,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=large",
+                "scrim_color": "#161A19",
+                "small": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=small",
+                "sort_order": 6,
+                "thumbnail": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AZSUleHg2unt7xARDAGXlJLp7+zV3N8HBwYBi4yM4+Xk+fj0DwwNAWZmXt/l6uzw8QkEAgFCQzsEBATm6u/y8vCYUyLkGtITWwAAAABJRU5ErkJggg==",
+                "x_large": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/47acad34-fe3b-4cad-b6da-f5ebd33cfc85.jpg?aki_policy=xx_large",
+                "picture_orientation": "PORTRAIT",
+                "aspect_ratio": 0.75
+            },
+            {
+                "caption": "Fully Equipped Eat in Kitchen",
+                "id": 32306343,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/60399874/4f7bc5c7_original.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=large",
+                "scrim_color": "#1A1210",
+                "small": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=small",
+                "sort_order": 7,
+                "thumbnail": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AV5WTfr6+iQeIRoWFQFnZGQOCQQB/f3z6N8BkIR/zNXX1NTZDgwKAY6CfMK0p+Hq8QkRFwGVi4DPu6oDAf8FBw2ogRzSG1QPuwAAAABJRU5ErkJggg==",
+                "x_large": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/60399874/4f7bc5c7_original.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/60399874/4f7bc5c7_original.jpg?aki_policy=xx_large",
+                "picture_orientation": "PORTRAIT",
+                "aspect_ratio": 0.75
+            }
+        ],
+        "primary_host": {
+            "about": "I'm a native New Yorker and an Airbnb Super host. I have traveled to over 34 countries and understand what it's like on both sides .. as a guest and as a host. I'm a creative professional , play guitar and perform with my band... ",
+            "badges": [
+                {
+                    "count": 369,
+                    "id": "reviews",
+                    "image_path": null,
+                    "image_size": null,
+                    "label": "369 Reviews",
+                    "link": "/users/show/21930989#reviews"
+                },
+                {
+                    "count": null,
+                    "id": "verified",
+                    "image_path": "badges/verified_badge.png",
+                    "image_size": "32x32",
+                    "label": "Verified",
+                    "link": null
+                }
+            ],
+            "host_name": "Mark",
+            "id": 21930989,
+            "identity_verified": true,
+            "is_superhost": false,
+            "languages": [],
+            "languages_as_string": "",
+            "location_long": "New York, NY",
+            "member_since": "September 2014",
+            "member_since_full_str": "Joined in September 2014",
+            "profile_path": "/users/show/21930989",
+            "profile_pic_path": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_x_medium",
+            "response_rate_without_na": "100%",
+            "response_time_without_na": "within an hour",
+            "smart_name": "Mark",
+            "user_profile_info_i18n": null,
+            "has_inclusion_badge": false,
+            "profile_pic_path_large": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_large",
+            "host_intro_tags": [
+                "369 reviews",
+                "Verified"
+            ]
+        },
+        "review_highlight": null,
+        "room_and_property_type": "Private room in apartment",
+        "room_type_category": "private_room",
+        "sectioned_description": {
+            "access": "l do prefer to greet guests upon arrival and show them how everything works since this is a shared apartment. l also will provide check in after 8PM with a lock box outside the building so if you do have a late flight please make sure to let me know. Please keep in communication with me if there any changes to your travel plans that l should be aware of. \n\nAlso, l am very flexible when there are issues with travel that are beyond the control of guests like weather or flight delays. Please make sure you are able to email using airbnb messaging system on day of arrival just in case there is a problem. l do allow guests to leave bags on check out day if you have a very late flight and want to explore the city one more time.",
+            "author_type": "human",
+            "description": "Private Room W. 80's Manhattan 2 blocks from Subway  3 blocks walk to Central Park. Full Size Futon Bed for 2 , Wifi, access to kitchen and shared bathroom. Best Neighborhood in NYC to stay! Very Safe! This top Floor walk up apartment is very quiet for sleeping, !\n\nThis room is in a pre war apartment building in the heart of the upper West Side of Manhattan.  It's on the top floor with 4 flights to walk up but l will always help guests with luggage. The room is small but is very comfortable with 2 large windows and lot's of sunlight in the afternoon hours and dark in the morning. lt's also very quiet as the room faces the back of the building and the apartment is on the top floor so there's little to no noise from above. \n\nThe bed is a Futon style Full Size Bed . My guests have said it's very comfortable . l maintain the utmost privacy for guests when l home. l have ceiling to wall curtains  that are set up to add more privacy for when there is another person staying in the apartment \n\n Wifi hi speed internet, Large  Flat  Screen TV and DVD player plus Directv Satellite service. There is an eat in kitchen with table. The bathroom is adjacent to the kitchen. The kitchen has a table for eating or using your computer. \n\nYour room faces  the back of the apartment. There are three rooms total and my room is separated from the guests room by the middle room.  We call this a \"Railroad Style\" apartment.\n\nl provide baggage service within reason. Leave your bags the day you check out and pick them up later.\n\nl do prefer to greet guests upon arrival and show them how everything works since this is a shared apartment. l also will provide check in after 8PM with a lock box outside the building so if you do have a late flight please make sure to let me know. Please keep in communication with me if there any changes to your travel plans that l should be aware of. \n\nAlso, l am very flexible when there are issues with travel that are beyond the control of guests like weather or flight delays. Please make sure you are able to email using airbnb messaging system on day of arrival just in case there is a problem. l do allow guests to leave bags on check out day if you have a very late flight and want to explore the city one more time.\n\nl am very interactive with my guests if they choose to avail themselves of my experience as a native New Yorker. l know many of the best places to eat and drink and have fun in NYC. This is one of the many advantages of staying here as others have noted in their reviews. l really try to give my guests the best best experience possible while respecting their privacy.\n\n.\n\nUpper West Side UWS W 80's is the best, safest and prettiest neighborhood in NYC. Central Park is just 2 avenue blocks away. Museum of Natural History is 10 blocks walk. There are dozens of quaint outdoor cafes and many inexpensive places to to eat with a wide variety of ethnic food. \n\nCross Town bus across the park to the Met Museum on 5th Avenue 85 th street. Also the Guggenheim. Lincoln Center and Columbus Circle are within 10 minutes walk.  10 min. from Times Square and 20 from the 9/11 museum. The famous celebrity Westsider's shop at Fairway, Trader's Joe's and Zabars.  \n\nWe have the most beautiful sunsets on the Hudson River, eat or drink at the Boat Basin in Riverside Park at 79th street. Bike riding on the city's bike paths and hudson river and citibike rentals allover Manhattan.\n\nSubway #1,2,3 and B,C  Buses M84, M5, M7, M104 and M11. Columbus Ave Bike lanes and citibike rental spots\n\nl provide baggage service within reason. Leave your bags the day you check out and pick them up later.\n\n l should note that the apartment is old and if you are used to a more \"modern\" experience then this may not be best for you. lf you are looking for clean, comfortable, convenient and safe with a Super Host then this place is for you. Please look at pictures and ask for additional pictures if you are not sure. l charge a one time $5 cleaning fee which is for the laundry for clean sheets towels etc. regardless of how long the visit is.",
+            "detected_languages": null,
+            "house_rules": "There is no smoking in the apartment or the building. No Pets allowed. Please double lock the door for safety. No eating in the sleeping area only in the kitchen. . Thank You!",
+            "interaction": "l am very interactive with my guests if they choose to avail themselves of my experience as a native New Yorker. l know many of the best places to eat and drink and have fun in NYC. This is one of the many advantages of staying here as others have noted in their reviews. l really try to give my guests the best best experience possible while respecting their privacy.\n\n.",
+            "locale": "en",
+            "localized_language_name": "English",
+            "name": "W. 80's Central Park 3 Blocks Walk",
+            "neighborhood_overview": "Upper West Side UWS W 80's is the best, safest and prettiest neighborhood in NYC. Central Park is just 2 avenue blocks away. Museum of Natural History is 10 blocks walk. There are dozens of quaint outdoor cafes and many inexpensive places to to eat with a wide variety of ethnic food. \n\nCross Town bus across the park to the Met Museum on 5th Avenue 85 th street. Also the Guggenheim. Lincoln Center and Columbus Circle are within 10 minutes walk.  10 min. from Times Square and 20 from the 9/11 museum. The famous celebrity Westsider's shop at Fairway, Trader's Joe's and Zabars.  \n\nWe have the most beautiful sunsets on the Hudson River, eat or drink at the Boat Basin in Riverside Park at 79th street. Bike riding on the city's bike paths and hudson river and citibike rentals allover Manhattan.",
+            "notes": "l provide baggage service within reason. Leave your bags the day you check out and pick them up later.\n\n l should note that the apartment is old and if you are used to a more \"modern\" experience then this may not be best for you. lf you are looking for clean, comfortable, convenient and safe with a Super Host then this place is for you. Please look at pictures and ask for additional pictures if you are not sure. l charge a one time $5 cleaning fee which is for the laundry for clean sheets towels etc. regardless of how long the visit is.",
+            "space": "This room is in a pre war apartment building in the heart of the upper West Side of Manhattan.  It's on the top floor with 4 flights to walk up but l will always help guests with luggage. The room is small but is very comfortable with 2 large windows and lot's of sunlight in the afternoon hours and dark in the morning. lt's also very quiet as the room faces the back of the building and the apartment is on the top floor so there's little to no noise from above. \n\nThe bed is a Futon style Full Size Bed . My guests have said it's very comfortable . l maintain the utmost privacy for guests when l home. l have ceiling to wall curtains  that are set up to add more privacy for when there is another person staying in the apartment \n\n Wifi hi speed internet, Large  Flat  Screen TV and DVD player plus Directv Satellite service. There is an eat in kitchen with table. The bathroom is adjacent to the kitchen. The kitchen has a table for eating or using your computer. \n\nYour room faces  the back of the apartment. There are three rooms total and my room is separated from the guests room by the middle room.  We call this a \"Railroad Style\" apartment.\n\nl provide baggage service within reason. Leave your bags the day you check out and pick them up later.",
+            "summary": "Private Room W. 80's Manhattan 2 blocks from Subway  3 blocks walk to Central Park. Full Size Futon Bed for 2 , Wifi, access to kitchen and shared bathroom. Best Neighborhood in NYC to stay! Very Safe! This top Floor walk up apartment is very quiet for sleeping, !",
+            "transit": "Subway #1,2,3 and B,C  Buses M84, M5, M7, M104 and M11. Columbus Ave Bike lanes and citibike rental spots"
+        },
+        "star_rating": 4.5,
+        "tier_id": 0,
+        "user": {
+            "id": 21930989,
+            "host_name": "Mark",
+            "profile_path": "/users/show/21930989",
+            "profile_pic_path": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_x_medium"
+        },
+        "book_it_url": "/payments/book?hosting_id=4226098",
+        "calendar_last_updated_at": null,
+        "guest_controls": {
+            "allows_children": false,
+            "allows_infants": false,
+            "allows_pets": false,
+            "allows_smoking": false,
+            "allows_events": false,
+            "id": 4226098,
+            "host_check_in_time_message": "",
+            "localized_structured_house_rules_with_tips": null,
+            "p3_structured_house_rules": [
+                "Not suitable for children and infants",
+                "No smoking",
+                "No pets",
+                "No parties or events"
+            ],
+            "structured_house_rules": [
+                "Not suitable for children and infants",
+                "No smoking",
+                "No pets",
+                "No parties or events"
+            ],
+            "structured_house_rules_with_tips": [
+                {
+                    "key": "are_infants_and_children_allowed",
+                    "long_term_text": "May not be safe or suitable for children (0-12 years)",
+                    "text": "Not suitable for children and infants",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_kids"
+                },
+                {
+                    "key": "is_smoking_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "No smoking",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_smoking"
+                },
+                {
+                    "key": "are_pets_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "No pets",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_pets"
+                },
+                {
+                    "key": "are_events_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "No parties or events",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_party"
+                }
+            ],
+            "allows_non_china_users": true
+        },
+        "localized_minimum_nights_description": null,
+        "min_nights": 1,
+        "native_currency": "USD",
+        "collection_kicker": null,
+        "show_policy_details": true,
+        "has_we_work_location": false,
+        "is_business_travel_ready": false,
+        "additional_hosts": [],
+        "applicable_disaster": null,
+        "hometour_rooms": [],
+        "hometour_sections": [],
+        "alternate_sectioned_description_for_p3": null,
+        "initial_description_author_type": "human",
+        "localized_check_in_time_window": "After 1:00 PM",
+        "localized_check_out_time": "12:00 PM",
+        "localized_city": "New York",
+        "localized_listing_expectations": [],
+        "localized_room_type": "Private room",
+        "city_guidebook": null,
+        "country_code": "US",
+        "display_exact_location": null,
+        "host_guidebook": {
+            "continent": null,
+            "description": null,
+            "guidebook_type": null,
+            "guidebook_url": "/s/guidebooks?refinement_paths[]=/guidebooks/1353351",
+            "header_image_url": null,
+            "known_for": null,
+            "lat": null,
+            "lng": null,
+            "localized_name_for_guest_page": null,
+            "localized_name_for_homes_pdp": "Show guidebook",
+            "market_canonical_url": null,
+            "name": null,
+            "photo_url": null,
+            "title": "Guidebook for New York",
+            "xl_photo_url": null,
+            "guidebook_pictures_from_vermeer": null,
+            "id": 1353351
+        },
+        "lat": 40.78883,
+        "lng": -73.97616,
+        "location_title": "New York, United States",
+        "neighborhood_id": 671,
+        "p3_event_data_logging": {
+            "accuracy_rating": 10,
+            "amenities": [
+                8,
+                4,
+                2,
+                33,
+                1,
+                45,
+                41,
+                40,
+                30,
+                5,
+                93,
+                57,
+                36,
+                35
+            ],
+            "bed_type": null,
+            "cancel_policy": null,
+            "checkin_rating": 10,
+            "cleanliness_rating": 9,
+            "communication_rating": 10,
+            "description_language": "en",
+            "friend_count": null,
+            "guest_satisfaction_overall": 93,
+            "hosting_id": 4226098,
+            "instant_book_possible": null,
+            "is_superhost": false,
+            "listing_lat": 40.78883,
+            "listing_lng": -73.97616,
+            "location_rating": 10,
+            "page": "p3",
+            "person_capacity": 2,
+            "pdp_page_type": 1,
+            "picture_count": null,
+            "price": null,
+            "response_rate_shown": null,
+            "response_time_shown": null,
+            "room_type": "Private room",
+            "saved_to_wishlist_count": null,
+            "home_tier": 1,
+            "time_since_last_calendar_update": null,
+            "utc_offset": null,
+            "value_rating": 9,
+            "visible_review_count": 352,
+            "home_collection": null
+        },
+        "paid_growth_remarketing_listing_ids": [
+            4226098
+        ],
+        "commercial_host_info": null,
+        "flag_info": {
+            "id": null,
+            "redacted": null
+        },
+        "license": null,
+        "p3_listing_flag_options": [],
+        "p3_review_flag_options": [],
+        "requires_license": false,
+        "should_hide_action_buttons": false,
+        "should_show_business_details": null,
+        "show_edit_mode": false,
+        "support_cleaner_living_wage": null,
+        "p3_display_review_summary": true,
+        "review_details_interface": {
+            "display_review_summary": true,
+            "host_other_property_review_count": 17,
+            "review_count": 352,
+            "review_score": 93,
+            "review_summary": [
+                {
+                    "category": "accuracy",
+                    "value": 10,
+                    "label": "Accuracy",
+                    "localized_rating": "4.6",
+                    "percentage": 0.922
+                },
+                {
+                    "category": "communication",
+                    "value": 10,
+                    "label": "Communication",
+                    "localized_rating": "5.0",
+                    "percentage": 0.992
+                },
+                {
+                    "category": "cleanliness",
+                    "value": 9,
+                    "label": "Cleanliness",
+                    "localized_rating": "4.4",
+                    "percentage": 0.8720000000000001
+                },
+                {
+                    "category": "location",
+                    "value": 10,
+                    "label": "Location",
+                    "localized_rating": "5.0",
+                    "percentage": 0.992
+                },
+                {
+                    "category": "checkin",
+                    "value": 10,
+                    "label": "Check-in",
+                    "localized_rating": "4.9",
+                    "percentage": 0.9880000000000001
+                },
+                {
+                    "category": "value",
+                    "value": 9,
+                    "label": "Value",
+                    "localized_rating": "4.7",
+                    "percentage": 0.932
+                }
+            ],
+            "review_sorting_options": null,
+            "n_reviews_per_page": 7,
+            "review_tag_summary": null
+        },
+        "sorted_reviews": [
+            {
+                "comments": "Mark is a fantastic, friendly and welcoming host! I thoroughly enjoyed staying in his apartment. The apartment is at a prime location with access to easy transportation, great venues around, and all in all a great place to be at. The apartment was very clean and quiet! I would definitely recommend you stay with Mark!!! 5 stars!",
+                "id": 591582296,
+                "language": "en",
+                "created_at": "2020-01-11T21:06:31.000Z",
+                "response": null,
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Mark",
+                    "host_name": "Mark",
+                    "id": 21930989,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/21930989",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Marlyn",
+                    "host_name": "Marlyn",
+                    "id": 104521903,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/273e0fef-9364-4c16-bfb9-7042aa176309.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/104521903",
+                    "is_superhost": false
+                },
+                "localized_date": "January 2020",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "Mark was so amazing. He was very accommodating with us as we were trying to pack a weeks visit into two days. Mark also gave us so many helpful hints, directions, things to do and see and was very good and checking in a communicating with us while we were out and about. Thank you Mark!!",
+                "id": 587749574,
+                "language": "en",
+                "created_at": "2020-01-03T18:31:49.000Z",
+                "response": null,
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Mark",
+                    "host_name": "Mark",
+                    "id": 21930989,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/21930989",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Rachael",
+                    "host_name": "Rachael",
+                    "id": 319973108,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/b276a889-db5a-47f5-a062-0ddd460652a9.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/319973108",
+                    "is_superhost": false
+                },
+                "localized_date": "January 2020",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "Mark\u2019s place is ideal if you want to spend your day out in the city. It\u2019s in a great location, very safe, and with plenty of privacy. It\u2019s no luxury hotel, but Mark is transparent about that.  He was very easy to communicate with throughout our stay, and very hospitable. I recommend his place if you are mostly looking for a place to sleep and leave your bags while you\u2019re out.",
+                "id": 587119747,
+                "language": "en",
+                "created_at": "2020-01-02T20:08:39.000Z",
+                "response": null,
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Mark",
+                    "host_name": "Mark",
+                    "id": 21930989,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/21930989",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Christian",
+                    "host_name": "Christian",
+                    "id": 225968105,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/0ce8b4df-c155-4582-a4dc-79a00855d537.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/225968105",
+                    "is_superhost": false
+                },
+                "localized_date": "January 2020",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "I was so happy to find refuge at Mark's place. He is low-key, generous with his time. Checking in was easy, he made himself available to me when I left, allowed me to leave my bags for a few hours. Love the neighborhood, Zabar's is a few blocks away, the subway, too. Climbing up to the fifth floor is a bit of a challenge, but do-able. Quiet space, privacy in spite of sleeping opposite the front door. I felt very welcome here.",
+                "id": 576807583,
+                "language": "en",
+                "created_at": "2019-12-14T18:34:53.000Z",
+                "response": null,
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Mark",
+                    "host_name": "Mark",
+                    "id": 21930989,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/21930989",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Leonie",
+                    "host_name": "Leonie",
+                    "id": 22131075,
+                    "picture_url": "https://a0.muscache.com/im/users/22131075/profile_pic/1412981344/original.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/22131075",
+                    "is_superhost": false
+                },
+                "localized_date": "December 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "Mark\u2019s apartment is really cute and in a great neighborhood . You truly get to experience the real New York City! Mark is an excellent host! A really interesting person! Thank you Mark! See you in Greece soon!",
+                "id": 567443777,
+                "language": "en",
+                "created_at": "2019-11-22T19:59:47.000Z",
+                "response": null,
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Mark",
+                    "host_name": "Mark",
+                    "id": 21930989,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/21930989",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Nina",
+                    "host_name": "Nina",
+                    "id": 131766558,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/638794d4-61bd-4e1a-90c8-0a6e4441a296.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/131766558",
+                    "is_superhost": false
+                },
+                "localized_date": "November 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "Marks place is amazing! Super convenient, 2 parking garages on his street, one directly next door. Super clean, marks so friendly and welcoming! Gave us plenty of privacy and made us feel at home",
+                "id": 565465830,
+                "language": "en",
+                "created_at": "2019-11-17T18:45:54.000Z",
+                "response": null,
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Mark",
+                    "host_name": "Mark",
+                    "id": 21930989,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/21930989",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Meghan",
+                    "host_name": "Meghan",
+                    "id": 304419898,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/d0ff633f-2de7-4d8f-a1ea-bf31c824b71a.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/304419898",
+                    "is_superhost": false
+                },
+                "localized_date": "November 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "Mark is a great host.  Great location - quiet and convenient.",
+                "id": 564748013,
+                "language": "en",
+                "created_at": "2019-11-16T20:51:12.000Z",
+                "response": null,
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Mark",
+                    "host_name": "Mark",
+                    "id": 21930989,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/6512fe80-b1d2-4827-841d-46ecc090e561.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/21930989",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Leslie",
+                    "host_name": "Leslie",
+                    "id": 69886549,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/0c3b0f57-ad1b-417d-8210-5568a7184833.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/69886549",
+                    "is_superhost": false
+                },
+                "localized_date": "November 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            }
+        ],
+        "visible_review_count": 352,
+        "cover_photo_primary": null,
+        "host_interaction": null,
+        "host_quote": "",
+        "is_select_market": false,
+        "layout": null,
+        "nearby_airport_distance_descriptions": [],
+        "property_type_in_city": "",
+        "render_tier_id": 0,
+        "select_listing_tenets": [],
+        "other_property_types": [
+            2,
+            3,
+            35,
+            11,
+            37
+        ],
+        "p3_neighborhood_breadcrumb_details": [
+            {
+                "link_route": "/s/New-York--NY",
+                "link_text": "New York,",
+                "search_text": "New York, NY"
+            },
+            {
+                "link_route": "/s/United-States",
+                "link_text": "United States",
+                "search_text": "United States"
+            }
+        ],
+        "p3_seo_breadcrumb_details": [
+            {
+                "link_route": "/s/United-States",
+                "link_text": "United States",
+                "search_text": "United States"
+            },
+            {
+                "link_route": "/s/New-York--United-States",
+                "link_text": "New York",
+                "search_text": "New York, United States"
+            },
+            {
+                "link_route": "/s/New-York--NY",
+                "link_text": "New York",
+                "search_text": "New York, NY"
+            }
+        ],
+        "p3_seo_property_search_url": "/s/New-York--NY",
+        "seo_features": {
+            "android_alternate_url": "android-app://com.airbnb.android/airbnb/rooms/4226098",
+            "android_deeplink": "airbnb://rooms/4226098",
+            "canonical_url": "https://www.airbnb.com/rooms/4226098",
+            "iphone_deeplink": "airbnb://rooms/4226098",
+            "meta_description": "Jan 31, 2020 - Private room for $69. Private Room W. 80's Manhattan 2 blocks from Subway  3 blocks walk to Central Park. Full Size Futon Bed for 2 , Wifi, access to kitchen and shared ...",
+            "title": "W. 80's Central Park 3 Blocks Walk - Apartments for Rent in New York, New York, United States",
+            "breadcrumb_details": [
+                {
+                    "link_route": "/s/United-States",
+                    "link_text": "United States",
+                    "search_text": "United States"
+                },
+                {
+                    "link_route": "/s/New-York--United-States",
+                    "link_text": "New York",
+                    "search_text": "New York, United States"
+                },
+                {
+                    "link_route": "/s/New-York--NY",
+                    "link_text": "New York",
+                    "search_text": "New York, NY"
+                }
+            ],
+            "nearby_cities": [
+                {
+                    "canonical_location": "/s/New-York--NY",
+                    "display_location": "New York",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Brooklyn--NY",
+                    "display_location": "Brooklyn",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Washington--DC",
+                    "display_location": "Washington",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Boston--MA",
+                    "display_location": "Boston",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Queens--NY",
+                    "display_location": "Queens",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Philadelphia--PA",
+                    "display_location": "Philadelphia",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Cambridge--MA",
+                    "display_location": "Cambridge",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Jersey-City--NJ",
+                    "display_location": "Jersey City",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Union-City--NJ",
+                    "display_location": "Union City",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Bronx--NY",
+                    "display_location": "Bronx",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Somerville--MA",
+                    "display_location": "Somerville",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Baltimore--MD",
+                    "display_location": "Baltimore",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Long-Island-City--NY",
+                    "display_location": "Long Island City",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Arlington--VA",
+                    "display_location": "Arlington",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/East-Hampton--NY",
+                    "display_location": "East Hampton",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Portland--ME",
+                    "display_location": "Portland",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Ithaca--NY",
+                    "display_location": "Ithaca",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Charlottesville--VA",
+                    "display_location": "Charlottesville",
+                    "is_vr": false
+                }
+            ],
+            "neighborhood_breadcrumb_details": [
+                {
+                    "link_route": "/s/New-York--NY",
+                    "link_text": "New York,",
+                    "search_text": "New York, NY"
+                },
+                {
+                    "link_route": "/s/United-States",
+                    "link_text": "United States",
+                    "search_text": "United States"
+                }
+            ],
+            "og_tags": {
+                "og_description": "Private room in New York, United States. Private Room W. 80's Manhattan 2 blocks from Subway  3 blocks walk to Central Park. Full Size Futon Bed for 2 , Wifi, access to kitchen and shared ...",
+                "og_image": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=x_large",
+                "og_title": "W. 80's Central Park 3 Blocks Walk - Apartments for Rent in New York, New York, United States",
+                "og_type": "airbedandbreakfast:listing",
+                "og_url": "https://www.airbnb.com/rooms/4226098",
+                "og_image_height": null,
+                "og_image_width": null
+            },
+            "other_property_types": [
+                {
+                    "id": 2,
+                    "option": "Houses",
+                    "url": "/s/New-York--NY?refinement_paths[]=homes&property_type_id[]=2"
+                },
+                {
+                    "id": 3,
+                    "option": "Bed and breakfasts",
+                    "url": "/s/New-York--NY?refinement_paths[]=homes&property_type_id[]=3"
+                },
+                {
+                    "id": 35,
+                    "option": "Lofts",
+                    "url": "/s/New-York--NY?refinement_paths[]=homes&property_type_id[]=35"
+                },
+                {
+                    "id": 11,
+                    "option": "Villas",
+                    "url": "/s/New-York--NY?refinement_paths[]=homes&property_type_id[]=11"
+                },
+                {
+                    "id": 37,
+                    "option": "Condominiums",
+                    "url": "/s/New-York--NY?refinement_paths[]=homes&property_type_id[]=37"
+                }
+            ],
+            "property_search_url": "/s/New-York--NY",
+            "rel_image_src": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=x_large",
+            "twitter_tags": {
+                "twitter_card": "photo",
+                "twitter_description": null,
+                "twitter_image": "https://a0.muscache.com/im/pictures/61269211/7a401443_original.jpg?aki_policy=x_large",
+                "twitter_title": null,
+                "twitter_url": "https://www.airbnb.com/rooms/4226098"
+            },
+            "index_in_search_engines": true
+        },
+        "share_links": [
+            {
+                "channel_name": "facebook",
+                "url": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.airbnb.com%2Frooms%2F4226098%3Fs%3D4",
+                "raw_url": "https://www.airbnb.com/rooms/4226098?s=4",
+                "title": "Facebook",
+                "s": "4"
+            },
+            {
+                "channel_name": "twitter",
+                "url": "https://twitter.com/intent/tweet?source=tweetbutton&text=Love+this%21+%22W.+80%27s+Central+Park+3+Blocks+Walk+-+Apartments+for+Rent+in+New+York+%23NYC+%23Travel%22+%40airbnb&url=https%3A%2F%2Fwww.airbnb.com%2Frooms%2F4226098%3Fs%3D5&related=airbnb",
+                "raw_url": null,
+                "title": "Twitter",
+                "s": "5"
+            },
+            {
+                "channel_name": "email",
+                "url": "mailto:?to=&body=Check%20out%20this%20listing%20on%20Airbnb! https%3A%2F%2Fwww.airbnb.com%2Frooms%2F4226098%3Fs%3D1&subject=Check%20out%20this%20listing%20on%20Airbnb!",
+                "raw_url": null,
+                "title": "Email",
+                "s": "23"
+            },
+            {
+                "channel_name": "messenger",
+                "url": "http://www.facebook.com/dialog/send?app_id=138566025676&link=https%3A%2F%2Fwww.airbnb.com%2Frooms%2F4226098%3Fs%3D25&redirect_uri=https%3A%2F%2Fwww.airbnb.com%2Frooms%2F4226098%3Fs%3D25",
+                "raw_url": "https://www.airbnb.com/rooms/4226098?s=25",
+                "title": "Messenger",
+                "s": "25"
+            },
+            {
+                "channel_name": "copy",
+                "url": "https://www.airbnb.com/rooms/4226098?s=51",
+                "raw_url": null,
+                "title": "",
+                "s": "51"
+            },
+            {
+                "channel_name": "embed",
+                "url": "https://www.airbnb.com/rooms/4226098?s=51",
+                "raw_url": null,
+                "title": "Embed",
+                "s": "51"
+            }
+        ],
+        "education_module": null,
+        "collection_promotion": null,
+        "reviews_order": "language_country",
+        "cover_photo_vertical": null,
+        "is_hotel": false,
+        "show_review_tag": false,
+        "accessibility_module": null,
+        "is_representative_inventory": false,
+        "highlights_impression_id": "31b343f8-38a2-4c54-b279-f81d3599741b",
+        "point_of_interests": [],
+        "has_essentials_amenity": true,
+        "china_points_of_interest": null,
+        "reservation_status": null,
+        "visibility": "world",
+        "categorized_preview_amenities": [
+            {
+                "category": "Standard",
+                "amenities": "Kitchen, Wifi, Cable TV, TV, Essentials, and 5 more"
+            }
+        ],
+        "section_erf_configs": {
+            "amenities": [
+                {
+                    "experiment": "p3_homes_guest_education",
+                    "trebuchet": "p3_homes_guest_education_launch"
+                }
+            ],
+            "reviews": [
+                {
+                    "experiment": "p3_reviews_section_delivery_aa",
+                    "trebuchet": "p3_reviews_section_delivery_aa"
+                },
+                {
+                    "experiment": "p3_visualize_house_rules_web_v2",
+                    "trebuchet": "p3_visualize_house_rules_web_v2"
+                }
+            ],
+            "location": [
+                {
+                    "experiment": "p3_location_section_delivery_aa",
+                    "trebuchet": "p3_location_section_delivery_aa"
+                }
+            ]
+        },
+        "china_points_of_interest_matcha": {},
+        "security_deposit_details": null,
+        "page_view_type": "DEFAULT",
+        "preview_tags": [],
+        "see_all_hometour_sections": [],
+        "summary_section": null,
+        "education_modules": {
+            "plus_education_module_v2": null,
+            "plus_education_module_v1": null
+        },
+        "enable_highlights_voting": false,
+        "amenity_section": null,
+        "host_info_module": null,
+        "hometour_module": null,
+        "hero_module": {
+            "cover_photo_cta_text": null,
+            "categorized_photos": []
+        },
+        "summary_module": null,
+        "new_user_education_module": {
+            "entire_home_education_message": null,
+            "guest_support_education_message": null
+        },
+        "panorama": null,
+        "house_rules_module": {
+            "structured_rules": [
+                {
+                    "key": "are_infants_and_children_allowed",
+                    "long_term_text": "May not be safe or suitable for children (0-12 years)",
+                    "text": "Not suitable for children and infants",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_kids"
+                },
+                {
+                    "key": "is_smoking_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "No smoking",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_smoking"
+                },
+                {
+                    "key": "are_pets_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "No pets",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_pets"
+                },
+                {
+                    "key": "are_events_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "No parties or events",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_party"
+                }
+            ],
+            "listing_expectations": [],
+            "additional_rules": "There is no smoking in the apartment or the building. No Pets allowed. Please double lock the door for safety. No eating in the sleeping area only in the kitchen. . Thank You!",
+            "localized_listing_expectations": [],
+            "localized_additional_rules": null,
+            "self_checkin_info": null,
+            "listing_expectations_with_icons": null,
+            "safety_disclosures": null
+        },
+        "reviews_module": {
+            "localized_overall_rating": "4.64",
+            "appreciation_tags": [
+                {
+                    "localized_text": "Outstanding hospitality",
+                    "localized_count_string": "48",
+                    "icon": "IconIndicatorHeart"
+                },
+                {
+                    "localized_text": "Quick responses",
+                    "localized_count_string": "42",
+                    "icon": "IconIndicatorChatBubble"
+                },
+                {
+                    "localized_text": "Amazing amenities",
+                    "localized_count_string": "9",
+                    "icon": "IconIndicatorCup"
+                },
+                {
+                    "localized_text": "Sparkling clean",
+                    "localized_count_string": "8",
+                    "icon": "IconIndicatorTub"
+                },
+                {
+                    "localized_text": "Stylish space",
+                    "localized_count_string": "8",
+                    "icon": "IconIndicatorInterior"
+                }
+            ],
+            "review_header_highlight": null
+        },
+        "availability_module": {
+            "discount_phrase": null
+        },
+        "ugc_translation": null,
+        "pdp_guest_education_response": null,
+        "sections": [],
+        "metadata": {
+            "default_wishlist_name": null,
+            "hotel_listing_type": null,
+            "short_property_type": null
+        },
+        "p3_impression_id": "p3_1580496964_USvnjuM8liOA9Kmq",
+        "error_status": null,
+        "debug_output": null
+    },
+    "metadata": {}
+}
