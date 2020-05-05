@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90492dac-7511-4588-9595-afbc138b2342" name="Default Changelist" comment="" />
+    <list default="true" id="90492dac-7511-4588-9595-afbc138b2342" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XARH3nUkZ6ZMa5mtHoNaiK426D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +21,36 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../selenium.py" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo_airbnb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../selenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.selenium" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,13 +66,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="156" width="1022" height="737" key="SettingsEditor" timestamp="1580486862095">
+    <state x="743" y="279" width="424" height="491" key="FileChooserDialogImpl" timestamp="1581637478199">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="449" y="156" width="1022" height="737" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1580486862095" />
-    <state x="616" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1580499898493">
+    <state x="743" y="279" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1581637478199" />
+    <state width="1897" height="252" key="GridCell.Tab.0.bottom" timestamp="1581638105459">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="616" y="348" key="com.intellij.ide.util.TipDialog/0.27.1920.988@0.27.1920.988" timestamp="1580499898493" />
+    <state width="1897" height="252" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1581638105459" />
+    <state width="1897" height="252" key="GridCell.Tab.0.center" timestamp="1581638105458">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1897" height="252" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1581638105458" />
+    <state width="1897" height="252" key="GridCell.Tab.0.left" timestamp="1581638105458">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1897" height="252" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1581638105458" />
+    <state width="1897" height="252" key="GridCell.Tab.0.right" timestamp="1581638105459">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1897" height="252" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1581638105459" />
+    <state x="666" y="221" width="1022" height="737" key="SettingsEditor" timestamp="1580775181026">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="666" y="221" width="1022" height="737" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1580775181026" />
+    <state x="616" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1581637387534">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="616" y="348" key="com.intellij.ide.util.TipDialog/0.27.1920.988@0.27.1920.988" timestamp="1581637387534" />
   </component>
 </project>
